@@ -1,0 +1,29 @@
+.name1{
+    color: red;
+    text-align: center;
+}
+a{
+    text-align: center;
+    display: block;
+    color: rgba(18, 61, 52, 0.589);
+    border-bottom: 2px solid black;
+    text-decoration: none;
+}
+div{
+    justify-content: center;
+    display: flex;
+    position: relative;
+    gap: 50px;
+}
+img{
+    width: 560px;
+    height: 560px;
+    justify-content: center;
+    display: flex;
+    position: relative;
+    left: 30%;
+
+}
+body{
+    background-color: rgb(34, 16, 41);
+}
